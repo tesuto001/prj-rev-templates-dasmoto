@@ -1,1 +1,0 @@
-# prj-rev-templates-dasmoto
